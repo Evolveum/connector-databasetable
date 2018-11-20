@@ -1,0 +1,2 @@
+# Legacy DatabaseTable Connector
+This is legacy DatabaseTable connector that was part of Sun Microsystems Identity Connector Framework (ICF), later adopted by OpenICF and even later taken by Polygon project. This connector is essentially on life support. It is a development dead end. It is planned that this will be eventually replaced by proper polygon connector (see connector-dbtable project). Unfortunatelly, the replacement is still unfinished.
